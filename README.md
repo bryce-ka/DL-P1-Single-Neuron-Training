@@ -7,7 +7,7 @@ In this project me and a classmate worked together to build single neuron models
 This project comprises the following essential files:
 - `single neuron model.jl`: I've included functions related to neuron activation, prediction, loss computation, and gradient calculation in this file.
 - `single neuron training.jl`: You'll find the training logic for updating model parameters using gradient descent in this file.
-- Jupyter notebook Demonstration.ipynb: This notebook serves as a demonstration of the code and its functionality.
+- Jupyter notebook Demonstration.ipynb: This notebook serves as a demonstration of the code and its functionality. There's also a pdf version of the notebook.
 
 ## Objectives
 Throughout this project, I aimed to achieve the following goals:
